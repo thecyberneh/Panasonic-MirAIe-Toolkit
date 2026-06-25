@@ -1,0 +1,4 @@
+requests
+paho-mqtt
+cryptography
+bleak
